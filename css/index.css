@@ -1,0 +1,26 @@
+.md-toolbar-tools h1 {
+  font-size: inherit;
+  font-weight: inherit;
+  margin: inherit;
+}
+
+*, .myfont{
+  font-family: 'Slabo 27px', serif !important;
+}
+
+.homefont {
+  font-size: 1.2em;
+}
+
+.projectfont {
+  font-size: 1.1em;
+}
+
+.profileimage {
+  height:15em;
+  border-radius:50%;
+}
+
+.nav-theme {
+  background-color: #34495E
+}
